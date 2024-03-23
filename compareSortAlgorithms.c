@@ -1,3 +1,4 @@
+//Samuel Sklar - Bonus Assignment - 3/22/24
 #include <time.h>
 #include <stdlib.h>
 #include <stdio.h>
